@@ -1,7 +1,7 @@
 ---
 title: "Point Cloud Semantic Scene Completion from RGB-D Images"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2021-05-12-paper-point cloud semantic scene completion from rgb-d images
 excerpt: 'In this paper, we devise a novel semantic completion network, called point cloud semantic scene completion network (PCSSC-Net), for indoor scenes solely based on point clouds.'
 date: 2021-05-12
